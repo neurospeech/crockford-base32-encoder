@@ -12,6 +12,9 @@
     <PackageProjectUrl>https://github.com/neurospeech/crockford-base32-encoder</PackageProjectUrl>
     <Copyright>Public Domain</Copyright>
     <RepositoryUrl>https://github.com/neurospeech/crockford-base32-encoder.git</RepositoryUrl>
+        <DebugSymbols>true</DebugSymbols>
+    <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
+
   </PropertyGroup>
 
 </Project>
